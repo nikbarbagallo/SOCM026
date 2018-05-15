@@ -1,9 +1,5 @@
 //Assignment do file
 
-/////////////////////////////////////////////////////////////
-***Longitudinal Data Analysis: Session 2 - merging data***//
-///////////////////////////////////////////////////////////
-
 set more off
 //Defining the directory:
 global dir1 "/Users/nicolobarbagallo/Desktop/Longitudina Family studies/Assignment/merge"
